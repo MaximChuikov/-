@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\E\bin\Debug\E.exe.config
+C:\Users\Максим\source\repos\E\bin\Debug\E.exe
+C:\Users\Максим\source\repos\E\bin\Debug\E.pdb
+C:\Users\Максим\source\repos\E\obj\Debug\E.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\E\obj\Debug\E.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\E\obj\Debug\E.exe
+C:\Users\Максим\source\repos\E\obj\Debug\E.pdb
+C:\Users\Максим\source\repos\Висилица\bin\Debug\E.exe.config
+C:\Users\Максим\source\repos\Висилица\bin\Debug\E.exe
+C:\Users\Максим\source\repos\Висилица\bin\Debug\E.pdb
+C:\Users\Максим\source\repos\Висилица\obj\Debug\E.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Висилица\obj\Debug\E.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Висилица\obj\Debug\E.exe
+C:\Users\Максим\source\repos\Висилица\obj\Debug\E.pdb
